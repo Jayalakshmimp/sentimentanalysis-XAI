@@ -1,0 +1,1 @@
+This project focuses on performing sentiment analysis using VADER and RoBERTa models, integrating SHAP for explainability. It provides insights into sentiment trends while ensuring interpretability of model predictions. The user interface is implemented using Streamlit for an interactive experience.
